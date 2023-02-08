@@ -1,0 +1,14 @@
+{
+  "name": "botcomjs",
+  "version": "1.0.0",
+  "description": "Bot com JS (Danki Cursos)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^19.6.3"
+  }
+}
